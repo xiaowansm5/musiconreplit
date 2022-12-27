@@ -9,12 +9,14 @@
 <a href="https://repl.it/github/valetzx/musiconreplit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/musiconreplit" style="height: 40px; width: 190px;" />
 </a>
-
+---
 教育版：
 
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/valetzx/musiconreplit && mv -b musiconreplit/* ./ && mv -b musiconreplit/.[^.]* ./ && rm -rf *~ && rm -rf musiconreplit`
+`git clone https://github.com/xiaowansm5/musiconreplit && mv -b musiconreplit/* ./ && mv -b musiconreplit/.[^.]* ./ && rm -rf *~ && rm -rf musiconreplit`
 
-当加载完 Loading Nix environment... 后点击绿色 ▶ Run
+当加载完 Loading Nix environment... 
+在shell中运行 `sh first.sh` 进行初始化，初始化完成后点绿色Run 运行
+
 
